@@ -3,7 +3,8 @@
 # 💫 About Me:
 </div>
 
-👋 Hi there! I'm Adi, an Electrical Engineer with a passion for software development. 🌟<br><br>💻 Software Enthusiast: Self-taught coder exploring the realms of software engineering, from embedded systems to web development.<br><br>📚 Learning and Growing: Always eager to learn new technologies and improve my skills.
+👋 Hi there! I'm Adi, an Electrical Engineer with a passion for software development. 🌟<br>
+<br>📚 Learning and Growing: Always eager to learn new technologies and improve my skills.
 
 <div align="center">
 
